@@ -78,7 +78,7 @@ To run this project locally, follow these steps:
 
 ## 🌐 Demo
 
-Explore the live demo of the project [here](https://five-eda-sp500-stock-ml-apps.onrender.com)
+Explore the live demo of the project [here](https://five-eda-sp500-stock-ml-app.onrender.com/)
 
 ---
 
