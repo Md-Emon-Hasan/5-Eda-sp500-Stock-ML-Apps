@@ -2,6 +2,8 @@
 
 Welcome to the **EDA S&P 500 Stock ML Apps** machine learning project repository! This project focuses on performing exploratory data analysis (EDA) on S&P 500 stocks and building machine learning applications for stock price prediction.
 
+![5](https://github.com/user-attachments/assets/aba22024-b368-47f4-8aee-fe9ec28d2d61)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
